@@ -45,6 +45,5 @@ File transferred successfully.
 
 Contributions are welcome. If you want to improve this project, please fork the repository, make your changes, and submit a pull request. We appreciate your contributions to make it better.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## Authors
+Duvan Ricardo Cuero Colorado (https://github.com/merolemay)
