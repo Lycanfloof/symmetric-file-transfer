@@ -11,7 +11,7 @@ This project consists of two programs, a client and a server, that enable secure
 
 1. Clone or download the project repository to your local machine.
 
-- ```git clone https://github.com/your-username/secure-file-transfer.git```
+- ```git clone https://github.com/Lycanfloof/symmetric-file-transfer```
 
 2. Open a terminal and navigate to the project directory.
 
@@ -19,21 +19,21 @@ This project consists of two programs, a client and a server, that enable secure
 
 3. Compile the Java files.
 
-- ```javac Server.java```
+- ```javac ServerMain.java```
 
-- ```javac Client.java```
+- ```javac ClientMain.java```
 
 4. Run the server program in one terminal.
 
-- ```java Server```
+- ```java ServerMain```
 
 5. In another terminal, run the client program, providing the filename to transfer as a parameter.
 
-- ```java Client file.txt```
+- ```java ClientMain```
 
-Make sure to replace `file.txt` with the actual name of the file you want to transfer.
+6. Type the IP address and the port you'll connect to, along with the file name in the following way: `IP|Port|FileName.(format)`.
 
-6. Check the server terminal output to verify if the file was transferred successfully.
+7. Check the server terminal output to verify if the file was transferred successfully.
 
 - ```File transferred successfully.```
 
